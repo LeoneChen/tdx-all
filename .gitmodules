@@ -1,0 +1,9 @@
+[submodule "tdx-tools"]
+	path = tdx-tools
+	url = git@github.com:intel/tdx-tools.git
+[submodule "tdx-module"]
+	path = tdx-module
+	url = git@github.com:LeoneChen/tdx-module.git
+[submodule "seam-loader"]
+	path = seam-loader
+	url = git@github.com:LeoneChen/seam-loader.git
