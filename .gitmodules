@@ -7,3 +7,12 @@
 [submodule "seam-loader"]
 	path = seam-loader
 	url = git@github.com:LeoneChen/seam-loader.git
+[submodule "canonical-tdx"]
+	path = canonical-tdx
+	url = git@github.com:canonical/tdx.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:torvalds/linux.git
+[submodule "tdx"]
+	path = tdx
+	url = git@github.com:intel/tdx.git
