@@ -7,3 +7,6 @@
 [submodule "tdx"]
 	path = tdx
 	url = git@github.com:canonical/tdx.git
+[submodule "tboot"]
+	path = tboot
+	url = git@github.com:LeoneChen/tboot.git
