@@ -1,9 +1,12 @@
-[submodule "tdx-tools"]
-	path = tdx-tools
-	url = git@github.com:intel/tdx-tools.git
 [submodule "tdx-module"]
 	path = tdx-module
-	url = git@github.com:LeoneChen/tdx-module.git
-[submodule "seam-loader"]
-	path = seam-loader
-	url = git@github.com:LeoneChen/seam-loader.git
+	url = git@github.com:intel/tdx-module.git
+[submodule "tdx-loader"]
+	path = tdx-loader
+	url = git@github.com:LeoneChen/tdx-loader.git
+[submodule "tdx"]
+	path = tdx
+	url = git@github.com:canonical/tdx.git
+[submodule "tboot"]
+	path = tboot
+	url = git@github.com:LeoneChen/tboot.git
